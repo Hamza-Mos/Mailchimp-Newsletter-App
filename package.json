@@ -1,0 +1,16 @@
+{
+  "name": "mailchimp-newsletter-signup",
+  "version": "1.0.0",
+  "description": "This is my newsletter sign-up page for my business landing page using the Mailchimp API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamza Mostafa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "superagent": "^6.1.0"
+  }
+}
